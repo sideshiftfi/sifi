@@ -7231,9 +7231,9 @@ eth-rpc-errors@^4.0.2, eth-rpc-errors@^4.0.3:
     fast-safe-stringify "^2.0.6"
 
 eth-testing@^1.9.1:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/eth-testing/-/eth-testing-1.12.0.tgz#573bea828129f2eed172c6dd3fdea359d8b7f6f6"
-  integrity sha512-YuvWfxIRfer208Ya8ANcGEoQc2Msey9yS/fNx1gKkQ7u6DeYUyosb6YnUzNhgNRPgWTlj5EnMuXUHWjXEyh9Mg==
+  version "1.14.0"
+  resolved "https://registry.yarnpkg.com/eth-testing/-/eth-testing-1.14.0.tgz#cdbeb02a19495942c60bdf27d046a54c40db24cd"
+  integrity sha512-KRVSXHogM4byUUqoGlUK0ce3U4GsZcf/BAbY/L1LzMPPVntWfm12XQP3pxy0OPTSgvvP7sDGz41qifAZeVRUeQ==
   dependencies:
     abitype "^0.1.6"
     ethers "^5.5.4"
